@@ -1,0 +1,4 @@
+[{
+    "url": "/deploy",
+    "command": "deploy.sh"
+}]
